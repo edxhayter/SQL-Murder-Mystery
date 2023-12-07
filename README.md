@@ -9,13 +9,11 @@ The SQL Murder Mystery is an online challenge designed to teach SQL concepts in 
 First the goal was to look at the crime report:
 
 <pre>
-\```sql
 SELECT *
 FROM crime_scene_report
 WHERE type = 'murder'
 AND city = 'SQL City'
 AND date = '20180115'
-\```
 </pre>
   
 This revealed two witnesses:

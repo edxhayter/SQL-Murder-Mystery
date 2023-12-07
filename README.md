@@ -41,7 +41,7 @@ Witness Details:
 | ID | Name | license_id | address_number | address_street_name | ssn |
 |----|----- |------------|----------------|---------------------|-----|
 | 14887 | Morty Schapiro | 118009 | 4919 | Northwestern Dr | 111564949 |
-| 16371	| Annabel Miller | 490173 | 103 | Franklin Ave | 318771143 ||
+| 16371	| Annabel Miller | 490173 | 103 | Franklin Ave | 318771143 |
 
 Now we have to find the interview transcripts:
 

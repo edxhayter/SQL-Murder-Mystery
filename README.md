@@ -17,5 +17,5 @@ AND date = '20180115'
 </pre>
   
 This revealed two witnesses:
-1. Witness 1 lives in the last house on Northwestern Dr.
-2. Witness 2's first name is Annabel and they live on Franklin Ave.
+*  Witness 1 lives in the last house on Northwestern Dr.
+*  Witness 2's first name is Annabel and they live on Franklin Ave.
